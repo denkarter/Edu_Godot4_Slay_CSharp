@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "T9EA7v1nmfSyBCp83Unxv2sHtqihB9Vpe2BN5HoczidOT2hPaAnOdlI0XtKY+oimObV6kXXRatzffiF+3rCn0Q==",
+  "success": true,
+  "projectFilePath": "/Users/den/Projects/Godot/slaycsharp/SlayCSharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/den/.nuget/packages/godot.sourcegenerators/4.3.0/godot.sourcegenerators.4.3.0.nupkg.sha512",
+    "/Users/den/.nuget/packages/godotsharp/4.3.0/godotsharp.4.3.0.nupkg.sha512",
+    "/Users/den/.nuget/packages/godotsharpeditor/4.3.0/godotsharpeditor.4.3.0.nupkg.sha512",
+    "/Users/den/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/Users/den/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
